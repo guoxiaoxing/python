@@ -19,4 +19,3 @@ print("%2d %02d" % (3, 1))
 # list
 colorList = ['green', 'red', 'yellow']
 print('len(colorList) : ' + len(colorList).__str__())
-print('colorList.append('blue') : ' + colorList.append('blue').__str__())
