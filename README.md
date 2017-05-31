@@ -1,6 +1,6 @@
 # python
 
-作者: 郭孝星
+作者: 郭孝星<br/>
 邮箱: guoxiaoxingse@163.com
 博客: http://blog.csdn.net/allenwells
 简书: http://www.jianshu.com/users/66a47e04215b/latest_articles
