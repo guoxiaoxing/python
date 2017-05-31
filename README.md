@@ -1,6 +1,6 @@
 # python
 
-<img src=""/>
+<img src="https://github.com/guoxiaoxing/python/raw/master/art/python_banner.png"/>
 
 **关于作者**
 
