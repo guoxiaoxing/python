@@ -10,8 +10,8 @@
 >- JavaScript/React/ReactNative
 >- DataStructure/Algorithm
 >
->文章首发于[Github](https://github.com/guoxiaoxing)，后续也会同步在[简书](http://www.jianshu.com/users/66a47e04215b/latest_articles)与[CSDN](http://blog.csdn.net/allenwells)等博客平台上。
-文章中如果有什么问题，欢迎发邮件与我交流，我的邮箱是guoxiaoxingse@163.com
+>文章首发于[Github](https://github.com/guoxiaoxing)，后续也会同步在[简书](http://www.jianshu.com/users/66a47e04215b/latest_articles)与
+[CSDN](http://blog.csdn.net/allenwells)等博客平台上。文章中如果有什么问题，欢迎发邮件与我交流，我的邮箱是guoxiaoxingse@163.com
 
 
 
